@@ -1,0 +1,7 @@
+--- input: Ekansh ---
+Enter your name:
+Hello, Ekansh! Welcome to Git Lab.
+
+--- input: (empty) ---
+Enter your name:
+Name cannot be empty. Please run again and type your name.
