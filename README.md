@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | YOUR FULL NAME |
+| **Name** | Ekansh Dwivedi |
 | **Roll Number** | BT25CSE212 |
-| **Section** | YOUR SECTION |
+| **Section** | CSE C |
 | **Course** | IT Workshop - I (CSP 201), IIIT Nagpur |
 
 ## About this assignment
@@ -52,11 +52,11 @@ Hello, Ekansh! Welcome to Git Lab.
 
 | Exercise | Issue | Pull request |
 |----------|-------|--------------|
-| 1 - Greeting | [#1](https://github.com/USERNAME/git-practice-bt25cse212/issues/1) | [#6](https://github.com/USERNAME/git-practice-bt25cse212/pull/6) |
-| 2 - Menu | [#2](https://github.com/USERNAME/git-practice-bt25cse212/issues/2) | [#7](https://github.com/USERNAME/git-practice-bt25cse212/pull/7) |
-| 3 - Factorial | [#3](https://github.com/USERNAME/git-practice-bt25cse212/issues/3) | [#8](https://github.com/USERNAME/git-practice-bt25cse212/pull/8) |
-| 4 - Even/Odd | [#4](https://github.com/USERNAME/git-practice-bt25cse212/issues/4) | [#9](https://github.com/USERNAME/git-practice-bt25cse212/pull/9) |
-| 5 - Merge conflict | [#5](https://github.com/USERNAME/git-practice-bt25cse212/issues/5) | [#10](https://github.com/USERNAME/git-practice-bt25cse212/pull/10), [#11](https://github.com/USERNAME/git-practice-bt25cse212/pull/11) |
+| 1 - Greeting | [#1](https://github.com/ekanshdw/git-practice-bt25cse212/issues/1) | [#6](https://github.com/ekanshdw/git-practice-bt25cse212/pull/6) |
+| 2 - Menu | [#2](https://github.com/ekanshdw/git-practice-bt25cse212/issues/2) | [#7](https://github.com/ekanshdw/git-practice-bt25cse212/pull/7) |
+| 3 - Factorial | [#3](https://github.com/ekanshdw/git-practice-bt25cse212/issues/3) | [#8](https://github.com/ekanshdw/git-practice-bt25cse212/pull/8) |
+| 4 - Even/Odd | [#4](https://github.com/ekanshdw/git-practice-bt25cse212/issues/4) | [#9](https://github.com/ekanshdw/git-practice-bt25cse212/pull/9) |
+| 5 - Merge conflict | [#5](https://github.com/ekanshdw/git-practice-bt25cse212/issues/5) | [#10](https://github.com/ekanshdw/git-practice-bt25cse212/pull/10), [#11](https://github.com/ekanshdw/git-practice-bt25cse212/pull/11) |
 
 ## Git practice record
 
