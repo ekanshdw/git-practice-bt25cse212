@@ -1,0 +1,3 @@
+Final content of mode.txt after resolving the merge conflict:
+
+Lab mode: hybrid
