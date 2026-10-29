@@ -1,0 +1,23 @@
+MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
+Enter your choice:
+Enter your name:
+Hello, Ekansh!
+MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
+Enter your choice:
+Enter first number:
+Enter second number:
+Sum = 35
+MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
+Enter your choice:
+Enter a number:
+7 is odd
+MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
+Enter your choice:
+Enter a number:
+8 is even
+MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
+Enter your choice:
+Invalid choice, try again
+MENU: 1) Greet  2) Add  3) Even/Odd  4) Exit
+Enter your choice:
+Goodbye!
