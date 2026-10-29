@@ -1,0 +1,7 @@
+--- input: 5 ---
+Enter a number:
+Factorial of 5 is 120
+
+--- input: -3 ---
+Enter a number:
+Factorial is not defined for negative numbers
